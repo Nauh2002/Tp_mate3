@@ -1,1 +1,5 @@
-# Tp_mate3
+# Trabajo Práctico Matemática III
+
+Alumnos:
+-Garcia Nahuel
+-Manquez Victor
