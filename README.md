@@ -1,5 +1,5 @@
-# Trabajo Práctico Matemática III
+# **Trabajo Práctico Matemática III**
 
-Alumnos:
+# Alumnos:
 -Garcia Nahuel
 -Manquez Victor
